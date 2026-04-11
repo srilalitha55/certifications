@@ -1,21 +1,38 @@
-- **[Data Visualization in Tableau & Power BI (Udemy)]**
-- Learned how to create interactive dashboards, use DAX functions, perform ETL operations, and apply best practices in data visualization.
+📜 Certifications & Virtual Internship Experience
 
-- **[Microsoft Excel Crash Course for Business Analysts (Udemy)]**
-- Gained expertise in advanced Excel functions, pivot tables, data cleaning, and automation using macros for business reporting.  
+💼 Virtual Internship Experience
 
--  **[Python & Data Science with R | Python & R Programming (Udemy)]**
-- Mastered Python and R for data analysis, including NumPy, Pandas, data manipulation, visualization, and basic machine learning concepts.  
+🎓 Codebasics Data Analytics Virtual Internship
+Completed a 4-week virtual internship working on 8+ real-world business projects with large datasets.
+Gained hands-on experience in Excel, Power BI, SQL, Python, and Tableau.
+Developed skills in data analysis, dashboard creation, and business insights generation.
 
-- **[Agile Scrum Master Certification (Udemy)]**
-- Understood Agile methodologies, Scrum framework, sprint planning, backlog refinement, and the roles of Scrum Master, Product Owner, and Development Team.
+💼 Virtual Internship – Data Analyst | AtliQ Technologies (Internship 1)
+Performed data cleaning, validation, and reporting to ensure data accuracy.
+Worked on client-related tasks in the insurance domain, improving analytical skills.
 
-- **[Comprehensive Courses On Oracle SQL Concepts and Commands (EDUCBA)]**
-- Learned SQL fundamentals, joins, subqueries, stored procedures, and database management concepts.  
+💼 Virtual Internship – Data Analyst | AtliQ Technologies (Internship 2)
+Analyzed YouTube and Instagram data for social media insights.
+Performed data cleaning and reporting to support data-driven decisions.
 
-- **[Certificate of Achievement Business Analyst Aptitude Test (ProProfs Quiz Maker)]**
-- Assessed business analysis skills, problem-solving ability, and logical reasoning.  
+🎓 Certifications
+📊 Data Visualization in Tableau & Power BI (Udemy)
+Created interactive dashboards using DAX, ETL, and data modeling techniques.
 
-- **[Business Analysis Foundations (LinkedIn)]**
-- Covered requirement gathering, stakeholder communication, process modeling, and business documentation.  
+📈 Microsoft Excel Crash Course for Business Analysts (Udemy)
+Developed expertise in advanced Excel functions, pivot tables, and reporting.
 
+🐍 Python & Data Science with R (Udemy)
+Built strong foundations in Python, R, data analysis, and visualization.
+
+🗄️ Oracle SQL Certification (EDUCBA)
+Learned SQL queries, joins, subqueries, and database concepts.
+
+🔄 Agile Scrum Master Certification (Udemy)
+Gained knowledge of Agile methodologies, Scrum framework, and sprint processes.
+
+📋 Business Analysis Foundations (LinkedIn Learning)
+Covered requirement gathering, stakeholder communication, and process modeling.
+
+🧠 Business Analyst Aptitude Test (ProProfs)
+Demonstrated strong analytical thinking and problem-solving skills.
